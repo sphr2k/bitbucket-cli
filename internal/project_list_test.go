@@ -1,8 +1,8 @@
 package cli_test
 
 import (
-	cli "github.com/swisscom/bitbucket-cli/internal"
-	"github.com/swisscom/bitbucket-cli/test"
+	cli "github.com/sphr2k/bitbucket-cli/internal"
+	"github.com/sphr2k/bitbucket-cli/test"
 	"testing"
 )
 

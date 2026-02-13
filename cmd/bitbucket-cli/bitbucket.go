@@ -7,7 +7,7 @@ import (
 	"github.com/adrg/xdg"
 	"github.com/alexflint/go-arg"
 	"github.com/sirupsen/logrus"
-	cli "github.com/swisscom/bitbucket-cli/internal"
+	cli "github.com/sphr2k/bitbucket-cli/internal"
 	"gopkg.in/yaml.v2"
 )
 

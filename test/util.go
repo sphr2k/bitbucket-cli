@@ -4,7 +4,7 @@ package test
 import (
 	"os"
 
-	cli "github.com/swisscom/bitbucket-cli/internal"
+	cli "github.com/sphr2k/bitbucket-cli/internal"
 )
 
 func MustGetCLI() *cli.BitbucketCLI {
