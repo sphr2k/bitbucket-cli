@@ -1,4 +1,4 @@
-module github.com/swisscom/bitbucket-cli
+module github.com/sphr2k/bitbucket-cli
 
 go 1.24
 
